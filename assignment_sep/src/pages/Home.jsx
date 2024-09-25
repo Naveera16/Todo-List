@@ -16,12 +16,10 @@ const Home = () => {
       <div className="col-md-4"></div>
     </div>
       <div className="container mt-5" style={{fontSize : "30px"}}>
-        <h1 className="top_heading">
-        Welcome to Todoist: Your Ultimate To-Do List Manager!
-        </h1>
+        
         <p className="mt-4">
           Organize your day, boost productivity, and stay on top of your tasks
-          with <strong>Todoist</strong>, the ultimate tool to manage your daily to-do list.
+          with <strong>TodoList</strong>, the ultimate tool to manage your daily to-do list.
           Whether you're planning your work schedule, personal errands, or big
           projects, TaskMaster helps you:
         </p>

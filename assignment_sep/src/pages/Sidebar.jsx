@@ -8,7 +8,7 @@ const Sidebar = () => {
     <div className="col-md-2 " style={{height: '200vh', backgroundColor: "wheat"}}>
        <div className="container mt-5">
         {/* LOGO */}
-        <img src={Logo} className='w-100'  />
+        <img src={Logo} className='w-75 rounded mx-auto d-block'  />
 <ul className='sidebar_ul'>
     <li className='sidebar_li'>
         <Link to='/' className='sidebar_Link'>
